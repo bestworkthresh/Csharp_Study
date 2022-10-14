@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\UsingVariables",
+    "\\UsingVariables\\UsingVariables"
   ],
+  "SelectedNode": "\\UsingVariables\\UsingVariables\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
