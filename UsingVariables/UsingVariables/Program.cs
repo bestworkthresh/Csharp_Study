@@ -41,6 +41,27 @@ namespace usingvarvables;
         decimal d = 123.45m;
         Console.WriteLine("d：" + d);
 
+        char c1 =  'a';
+        Console.WriteLine("c1：" + c1);
+
+        char c2 = '文';
+        Console.WriteLine("c2：" + c2);
+
+        char c3 = '\x0059';
+        Console.WriteLine("c3：" + c3);
+
+        char c4= '\u0059';
+        Console.WriteLine("c4：" + c4);
+
+        char c5 = '\n';
+        Console.WriteLine("c5：" + c5);
+
+        char c6 = '\'';
+        Console.WriteLine("c6：" + c6);
+
+        char c7 = '\\';
+        Console.WriteLine("c7：" + c7);
+
 
     }
 
