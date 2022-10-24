@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMathOperator", "UsingMathOperator\UsingMathOperator.csproj", "{D582FFD7-7AC2-45E0-BACA-98446C254F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D582FFD7-7AC2-45E0-BACA-98446C254F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D582FFD7-7AC2-45E0-BACA-98446C254F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D582FFD7-7AC2-45E0-BACA-98446C254F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D582FFD7-7AC2-45E0-BACA-98446C254F49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E742D2D-036B-4DA0-BBBA-D909E26ECEF7}
+	EndGlobalSection
+EndGlobal
