@@ -1,0 +1,15 @@
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.csproj.AssemblyReference.cache
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.AssemblyInfoInputs.cache
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.AssemblyInfo.cs
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.csproj.CoreCompileInputs.cache
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\bin\Debug\net6.0\UsingInDeOperator.exe
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\bin\Debug\net6.0\UsingInDeOperator.deps.json
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\bin\Debug\net6.0\UsingInDeOperator.runtimeconfig.json
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\bin\Debug\net6.0\UsingInDeOperator.dll
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\bin\Debug\net6.0\UsingInDeOperator.pdb
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.dll
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\refint\UsingInDeOperator.dll
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.pdb
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\UsingInDeOperator.genruntimeconfig.cache
+C:\Thresh\Git\Csharp_Study\UsingInDeOperator\UsingInDeOperator\obj\Debug\net6.0\ref\UsingInDeOperator.dll
