@@ -1,0 +1,15 @@
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\bin\Debug\net6.0\Using_If.exe
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\bin\Debug\net6.0\Using_If.deps.json
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\bin\Debug\net6.0\Using_If.runtimeconfig.json
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\bin\Debug\net6.0\Using_If.dll
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\bin\Debug\net6.0\Using_If.pdb
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.csproj.AssemblyReference.cache
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.AssemblyInfoInputs.cache
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.AssemblyInfo.cs
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.csproj.CoreCompileInputs.cache
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.dll
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\refint\Using_If.dll
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.pdb
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\Using_If.genruntimeconfig.cache
+C:\Thresh\Git\Csharp_Study\Using_If\Using_If\obj\Debug\net6.0\ref\Using_If.dll
