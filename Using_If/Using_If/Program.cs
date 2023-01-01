@@ -23,7 +23,6 @@ int result = score < 60 ?  50 : score;
 Console.WriteLine("調分後分數為"+ result);
 
 
-
 //bool是一個可以儲存判斷結果的定義 
 
 bool x = 3 > 4;
