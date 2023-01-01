@@ -17,7 +17,7 @@ Console.WriteLine("\n");
 
 Console.WriteLine("請輸入小於100的小數整數(第二種");
 int score = int.Parse(Console.ReadLine());
-//IF的另外一種寫法 
+//IF的另外一種寫法，但藉由true跟false的方式來讓程式操作
 int result = score < 60 ?  50 : score;
 //調分
 Console.WriteLine("調分後分數為"+ result);
@@ -26,8 +26,19 @@ Console.WriteLine("調分後分數為"+ result);
 //bool是一個可以儲存判斷結果的定義 
 
 bool x = 3 > 4;
+Console.WriteLine(x+ " = 3 > 4");
+
 bool y = 3< 4;
+Console.WriteLine(y+ "= 3< 4");
 
-Console.WriteLine(x);
-Console.WriteLine(y);
+bool xORy = x | y;
+Console.WriteLine(xORy+ "= x | y");
 
+bool xANDy = x & y;
+Console.WriteLine(xANDy+ "=xANDy");
+
+bool xOy = (x & y) | (x | y);
+Console.WriteLine(xOy+ "= (x & y) | (x | y)");
+
+bool xNy = (x & y) | (x | y);
+Console.WriteLine(xNy+ "= (x & y) | (x | y)");
