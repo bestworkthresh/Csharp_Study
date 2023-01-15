@@ -42,3 +42,14 @@ Console.WriteLine(xOy+ "= (x & y) | (x | y)");
 
 bool xNy = (x & y) | (x | y);
 Console.WriteLine(xNy+ "= (x & y) | (x | y)");
+
+//Short-Circuit 邏輯運算
+//主要就是為了節省機器運算成本，只要第一個邏輯是False，就不做後面邏輯的判斷
+
+bool xSCx = x && y;
+Console.WriteLine(xSCx);
+
+bool xSC2x = x || y;
+Console.WriteLine(xSC2x);
+//需要考慮到程式執行的副作用，這樣貿然使用Short-Circuit就有可能出現非預期情況
+
