@@ -1,0 +1,15 @@
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.exe
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.deps.json
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.runtimeconfig.json
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.dll
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\bin\Debug\net6.0\IF_ELSE.pdb
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.csproj.AssemblyReference.cache
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.GeneratedMSBuildEditorConfig.editorconfig
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.AssemblyInfoInputs.cache
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.AssemblyInfo.cs
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.csproj.CoreCompileInputs.cache
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.dll
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\refint\IF_ELSE.dll
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.pdb
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\IF_ELSE.genruntimeconfig.cache
+E:\WITH_IN_HOME\Git\Csharp_Study\IF_ELSE\IF_ELSE\obj\Debug\net6.0\ref\IF_ELSE.dll
