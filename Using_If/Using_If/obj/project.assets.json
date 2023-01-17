@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\thresh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Thresh\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Thresh\\Git\\Csharp_Study\\Using_If\\Using_If\\Using_If.csproj",
+      "projectUniqueName": "E:\\WITH_IN_HOME\\Git\\Csharp_Study\\Using_If\\Using_If\\Using_If.csproj",
       "projectName": "Using_If",
-      "projectPath": "C:\\Thresh\\Git\\Csharp_Study\\Using_If\\Using_If\\Using_If.csproj",
-      "packagesPath": "C:\\Users\\thresh\\.nuget\\packages\\",
-      "outputPath": "C:\\Thresh\\Git\\Csharp_Study\\Using_If\\Using_If\\obj\\",
+      "projectPath": "E:\\WITH_IN_HOME\\Git\\Csharp_Study\\Using_If\\Using_If\\Using_If.csproj",
+      "packagesPath": "C:\\Users\\Thresh\\.nuget\\packages\\",
+      "outputPath": "E:\\WITH_IN_HOME\\Git\\Csharp_Study\\Using_If\\Using_If\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\thresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
