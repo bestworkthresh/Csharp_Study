@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "RQN7ZYXccChZUjnUeilLoyK4bWQ8q4V1t9rSt2UA2szwvn8RZdAd5zV0gcEmzZXdYEhcGvXoCCQ1dai3OixKsQ==",
+=======
+  "dgSpecHash": "bkoElgu0N5LYoqT4QlA+ul3hODKOslSoFLescX3HfmkFz6vqn2a/oxOLrMYpzj++LVEwnfWMgtbWFVjTAvsXdg==",
+>>>>>>> ff41ea7b2262a793d87153088b32239967b36cc5
   "success": true,
-  "projectFilePath": "C:\\Thresh\\Git\\Csharp_Study\\UsingMathOperator\\UsingMathOperator\\UsingMathOperator.csproj",
+  "projectFilePath": "E:\\WITH_IN_HOME\\Git\\Csharp_Study\\UsingMathOperator\\UsingMathOperator\\UsingMathOperator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

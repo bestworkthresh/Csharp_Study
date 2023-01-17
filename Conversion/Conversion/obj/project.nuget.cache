@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "DTSKzuotxwdO5HSGNKK96Ur7Are+AAqqyVI3jfrLzU7FT0kjq/g5qqKV9K1kvd2wsyadBcbcsR7ayrOsGlnQ7g==",
+=======
+  "dgSpecHash": "adMCrUZZWt+4PsG1zRgqwN36OYG7LiPMRTjgShUoOgJpF0BYnNW1T1BHyofhhtk23aV1kwWx+owMjG6uPacAHQ==",
+>>>>>>> ff41ea7b2262a793d87153088b32239967b36cc5
   "success": true,
-  "projectFilePath": "C:\\Thresh\\Git\\Csharp_Study\\Conversion\\Conversion\\Conversion.csproj",
+  "projectFilePath": "E:\\WITH_IN_HOME\\Git\\Csharp_Study\\Conversion\\Conversion\\Conversion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
