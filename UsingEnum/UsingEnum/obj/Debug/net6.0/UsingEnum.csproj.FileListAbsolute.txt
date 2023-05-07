@@ -1,5 +1,0 @@
-E:\WITH_IN_HOME\Git\Csharp_Study\UsingEnum\UsingEnum\obj\Debug\net6.0\UsingEnum.csproj.AssemblyReference.cache
-E:\WITH_IN_HOME\Git\Csharp_Study\UsingEnum\UsingEnum\obj\Debug\net6.0\UsingEnum.GeneratedMSBuildEditorConfig.editorconfig
-E:\WITH_IN_HOME\Git\Csharp_Study\UsingEnum\UsingEnum\obj\Debug\net6.0\UsingEnum.AssemblyInfoInputs.cache
-E:\WITH_IN_HOME\Git\Csharp_Study\UsingEnum\UsingEnum\obj\Debug\net6.0\UsingEnum.AssemblyInfo.cs
-E:\WITH_IN_HOME\Git\Csharp_Study\UsingEnum\UsingEnum\obj\Debug\net6.0\UsingEnum.csproj.CoreCompileInputs.cache
