@@ -45,6 +45,8 @@ if (score >= 60)
         Console.WriteLine("請注意，成績不及格");
 
 
+//被400整除的一年
+
 Console.WriteLine("請輸入西元年");
 int y = int.Parse(Console.ReadLine());
 
